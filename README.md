@@ -1,1 +1,1 @@
-# StatisticalMechanics-support
+# 『統計力学』 サポート用ページ

@@ -5,3 +5,4 @@
 ## 正誤表
 
 [正誤表ファイル](https://github.com/stsykw/StatisticalMechanics-support/blob/main/corrections.pdf)
+(クリックして表示されるファイルで文字が見えない場合はダウンロードしてください。)
